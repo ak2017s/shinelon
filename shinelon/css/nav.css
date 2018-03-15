@@ -1,0 +1,47 @@
+nav{
+	height: 55px;
+	width: 100%;
+	background: #ff5;
+}
+
+.nav{
+	height: 55px;
+	width: 1200px;
+	background: #999;
+	margin:0 auto;
+}
+
+.logo img{
+	margin-top: 12px;
+}
+
+.navul{
+	height: 55px;
+	width: 442px;
+	background: red;
+	margin:0 auto;
+	text-align: center;
+	margin:-48px 400px;
+}
+
+.navul ul li{
+	float: left;
+	margin-left: 45px;
+}
+
+.navul ul li a{
+	line-height: 55px;
+	color: #fff;
+}
+
+.hou{
+	height: 30px;
+	width: 250px;
+	background: #654;
+	float: right;
+	margin-top: 5px;
+}
+
+.deng{
+	
+}

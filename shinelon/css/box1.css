@@ -1,0 +1,47 @@
+.box1{
+	width: 100%;
+	height: 401px;
+	/*background: red;*/
+	position: relative;
+}
+
+.box1a{
+	width: 1200px;
+	height: 365px;
+	/*background: #555;*/
+	margin: 0 auto;
+	position: relative;
+	top: 36px;
+}
+
+.img1{
+	float: left;
+}
+
+.box2{
+	width: 100%;
+	height: 400px;
+	/*background: #f45;*/
+	position: relative;
+}
+
+.box2a{
+	width: 1220px;
+	height: 327px;
+	/*background: #555;*/
+	margin: 0 auto;
+	position: relative;
+	top: 36.5px;
+}
+
+.tu{
+	float: left;
+}
+
+.item2{
+	margin:0 11px;
+}
+
+dt{
+	font-size: 20px;
+}
